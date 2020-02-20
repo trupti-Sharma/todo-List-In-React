@@ -1,0 +1,52 @@
+.App {
+  font-family: sans-serif;
+  text-decoration-color: aliceblue;
+  border-style: outset;
+  background-color: rgb(22, 46, 61);
+  box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+  border-radius: 10px;
+  padding: 30px;
+  margin: 50px auto;
+  font-size: 20px;
+  display: block;
+}
+body {
+  
+  background-color: rgb(132, 170, 196);
+}
+button  {
+  -moz-box-shadow: inset 0px 1px 0px 0px #3985b1;
+  -webkit-box-shadow: inset 0px 1px 0px 0px #3985b1;
+  box-shadow: inset 0px 1px 0px 0px #3985b1;
+  background-color: #216288;
+  border: 1px solid #17445e;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  padding: 5px 23px;
+  text-decoration: none;
+  font: 12px Arial, Helvetica, sans-serif;
+}
+
+.form-check-input  {
+  -moz-box-shadow: inset 0px 1px 0px 0px #3985b1;
+  -webkit-box-shadow: inset 0px 1px 0px 0px #3985b1;
+  box-shadow: inset 0px 1px 0px 0px #3985b1;
+  background-color: #216288;
+  border: 1px solid #17445e;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  padding: 5px 23px;
+  text-decoration: none;
+  font: 12px Arial, Helvetica, sans-serif;
+}
+
+.form-check-label{
+  border: 1px solid #17445e;
+  border-color: rgb(22, 46, 61);
+  background-color: rgb(22, 46, 61);
+  width: 1px;
+  height: 20px;
+  color: #999;
+}
